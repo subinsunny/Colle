@@ -46,7 +46,7 @@ try
             System.out.println("InetSocketAddr = " + isockaddr);
             System.out.println("InetSocketAddr.isUnresolved = " + isockaddr.isUnresolved());
             System.out.println("Subin");
-            System.out.println("Punnet");
+            System.out.println("Puneet");
             System.out.println("Hrushi");
         }
         catch (Throwable e)
